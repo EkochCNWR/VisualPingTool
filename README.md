@@ -28,8 +28,8 @@ No third-party Python packages are required.
 Clone the repository:
 
 ```powershell
-git clone https://github.com/yourusername/pingchart.git
-cd pingchart
+git clone https://github.com/EkochCNWR/VisualPingTool.git
+cd VisualPingTool
 ```
 
 Run the script directly:
